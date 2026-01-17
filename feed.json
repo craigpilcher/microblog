@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/01/17/had-this-superman-story-in/",
+				
+				"content_html": "<p>Had this Superman story in heavy bedtime rotation for a few weeks. This page always makes me chuckle</p>\n<p><img src=\"https://pilch.zip/uploads/2026/2d89e9d589.jpg\" alt=\"Superman being interviewed by Lois Lane (from a children&rsquo;s early reader book). Superman appears to be staring at her chest as he says &ldquo;I can see through things with my X-ray vision&rdquo;\"></p>\n",
+				"content_text": "Had this Superman story in heavy bedtime rotation for a few weeks. This page always makes me chuckle \n\n![Superman being interviewed by Lois Lane (from a children's early reader book). Superman appears to be staring at her chest as he says \"I can see through things with my X-ray vision\"](https://pilch.zip/uploads/2026/2d89e9d589.jpg)\n",
+				"date_published": "2026-01-17T14:34:32-05:00",
+				"url": "https://pilch.zip/2026/01/17/had-this-superman-story-in/"
+			},
+			{
+				"id": "http://pilch.micro.blog/2026/01/16/alright-unplanned-blogging-hiatus-complete/",
+				
+				"content_html": "<p>alright, unplanned blogging hiatus complete. time to get back to tweaking Hugo themes</p>\n",
+				"content_text": "alright, unplanned blogging hiatus complete. time to get back to tweaking Hugo themes\n",
+				"date_published": "2026-01-16T10:06:19-05:00",
+				"url": "https://pilch.zip/2026/01/16/alright-unplanned-blogging-hiatus-complete/",
+				"tags": ["Meta"]
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/01/04/finished-reading-uncanny-xmen-masterworks/",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9781302479596\">Uncanny X-Men Masterworks Vol. 5</a> by Chris Claremont 📚</p>\n<p>Slowly working my way through these classics. This one contained an issue I remember reading as a kid, recreating Dante&rsquo;s Inferno with Nightcrawler and Dr. Strange</p>\n",
@@ -37,7 +54,7 @@
 				"id": "http://pilch.micro.blog/2025/12/24/winter-photo-challenge-day-travel/",
 				
 				"content_html": "<p>winter photo challenge day 10: <strong>travel</strong>. see beautiful, scenic (foggy, desolate) southern Indiana in December</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "winter photo challenge day 10: **travel**. see beautiful, scenic (foggy, desolate) southern Indiana in December\n\n<img src=\"uploads/2025/523873f753.jpg\" alt=\"A foggy landscape features a field with a mix of grass and dry vegetation, bordered by trees in the distance. Photo taken from the window of a moving car\">\n",
+				"content_text": "winter photo challenge day 10: **travel**. see beautiful, scenic (foggy, desolate) southern Indiana in December\n\n<img src=\"https://pilch.zip/uploads/2025/523873f753.jpg\" alt=\"A foggy landscape features a field with a mix of grass and dry vegetation, bordered by trees in the distance. Photo taken from the window of a moving car\">\n",
 				"date_published": "2025-12-24T23:39:59-05:00",
 				"url": "https://pilch.zip/2025/12/24/winter-photo-challenge-day-travel/",
 				"tags": ["Photo","prompts"]
@@ -46,7 +63,7 @@
 				"id": "http://pilch.micro.blog/2025/12/23/day-baking-in-under-the/",
 				
 				"content_html": "<p>day 9: <strong>baking</strong>. in under the wire with stolen valor from a cookie exchange</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "day 9: **baking**. in under the wire with stolen valor from a cookie exchange \n\n<img src=\"uploads/2025/e64d636ca6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "day 9: **baking**. in under the wire with stolen valor from a cookie exchange \n\n<img src=\"https://pilch.zip/uploads/2025/e64d636ca6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-12-23T23:08:18-05:00",
 				"url": "https://pilch.zip/2025/12/23/day-baking-in-under-the/",
 				"tags": ["Photo","christmas","prompts"]
@@ -1112,6 +1129,15 @@
 				"content_text": "Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks\n",
 				"date_published": "2025-03-29T00:03:57-05:00",
 				"url": "https://pilch.zip/2025/03/29/great-season-by-the-boilers/"
+			},
+			{
+				"id": "http://pilch.micro.blog/2025/03/28/great-season-by-the-boilers/",
+				
+				"content_html": "<p>Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks</p>\n",
+				"content_text": "Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks\n",
+				"date_published": "2025-03-28T23:03:00-05:00",
+				"url": "https://pilch.zip/2025/03/28/great-season-by-the-boilers/",
+				"tags": ["BoilerUp"]
 			},
 			{
 				"id": "http://pilch.micro.blog/2025/03/23/didnt-think-they-were-allowed/",
