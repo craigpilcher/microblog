@@ -7,12 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/01/21/the-nova-launcher-saga-continues/",
+				
+				"content_html": "<p>🔗: <a href=\"https://www.androidauthority.com/nova-launcher-acquisition-ads-update-3633871/\">The Nova Launcher saga continues</a>, and it looks like ads are coming. But they are at least looking at the open source question again, so that&rsquo;s&hellip; something</p>\n",
+				"content_text": "🔗: [The Nova Launcher saga continues](https://www.androidauthority.com/nova-launcher-acquisition-ads-update-3633871/), and it looks like ads are coming. But they are at least looking at the open source question again, so that's... something\n",
+				"date_published": "2026-01-21T10:01:13-05:00",
+				"url": "https://pilch.zip/2026/01/21/the-nova-launcher-saga-continues/",
+				"tags": ["Android"]
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/01/18/id-definitely-wear-a-guardian/",
 				
 				"content_html": "<p>I&rsquo;d definitely wear a Guardian cap but only in Dec-Jan games because it looks warm 🏈</p>\n",
 				"content_text": "I'd definitely wear a Guardian cap but only in Dec-Jan games because it looks warm 🏈\n",
 				"date_published": "2026-01-18T19:39:18-05:00",
-				"url": "https://pilch.zip/2026/01/18/id-definitely-wear-a-guardian/"
+				"url": "https://pilch.zip/2026/01/18/id-definitely-wear-a-guardian/",
+				"tags": ["NFL"]
 			},
 			{
 				"id": "http://pilch.micro.blog/2026/01/17/had-this-superman-story-in/",
@@ -21,7 +31,7 @@
 				"content_text": "Had this Superman story in heavy bedtime rotation for a few weeks. This page always makes me chuckle \n\n![Superman being interviewed by Lois Lane (from a children's early reader book). Superman appears to be staring at her chest as he says \"I can see through things with my X-ray vision\"](https://pilch.zip/uploads/2026/2d89e9d589.jpg)\n",
 				"date_published": "2026-01-17T14:34:32-05:00",
 				"url": "https://pilch.zip/2026/01/17/had-this-superman-story-in/",
-				"tags": ["Photo"]
+				"tags": ["Photo","DadZone"]
 			},
 			{
 				"id": "http://pilch.micro.blog/2026/01/16/alright-unplanned-blogging-hiatus-complete/",
