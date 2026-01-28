@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/01/28/my-favorite-folding-phone-doesnt/",
+				
+				"content_html": "<p>🔗: <a href=\"https://www.theverge.com/tech/869084/folding-phone-google-pixel-10-pro-samsung-galaxy-z-fold-7\">My favorite folding phone doesn&rsquo;t exist yet</a> | Allison Johnson (The Verge)</p>\n<blockquote>\n<p>Folding phones have been cool from the start, but I’ve never been so convinced about their real-world utility as I am now.</p>\n</blockquote>\n<p>I&rsquo;m currently running the <a href=\"https://pilch.zip/2025/12/01/ive-folded-again/\">10 Pro Fold</a> and could not agree more</p>\n",
+				"content_text": "🔗: [My favorite folding phone doesn't exist yet](https://www.theverge.com/tech/869084/folding-phone-google-pixel-10-pro-samsung-galaxy-z-fold-7) | Allison Johnson (The Verge)\n\n> Folding phones have been cool from the start, but I’ve never been so convinced about their real-world utility as I am now.\n\nI'm currently running the [10 Pro Fold](https://pilch.zip/2025/12/01/ive-folded-again/) and could not agree more\n",
+				"date_published": "2026-01-28T12:26:52-05:00",
+				"url": "https://pilch.zip/2026/01/28/my-favorite-folding-phone-doesnt/",
+				"tags": ["Android","Technology","Link"]
+			},
+			{
+				"id": "http://pilch.micro.blog/2026/01/26/words-arent-enough-scott-hines/",
+				
+				"content_html": "<p>🔗: <a href=\"https://www.actioncookbook.com/words-arent-enough/\">Words Aren&rsquo;t Enough</a> | Scott Hines</p>\n<p>Currently snowed in, reading about locations I&rsquo;ve only heard of in Hold Steady songs planning anti fascist resistance, trying to find out how to help. Words really are not enough</p>\n",
+				"content_text": "🔗: [Words Aren't Enough](https://www.actioncookbook.com/words-arent-enough/) | Scott Hines \n\nCurrently snowed in, reading about locations I've only heard of in Hold Steady songs planning anti fascist resistance, trying to find out how to help. Words really are not enough\n",
+				"date_published": "2026-01-26T12:13:36-05:00",
+				"url": "https://pilch.zip/2026/01/26/words-arent-enough-scott-hines/"
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/01/21/the-nova-launcher-saga-continues/",
 				
 				"content_html": "<p>🔗: <a href=\"https://www.androidauthority.com/nova-launcher-acquisition-ads-update-3633871/\">The Nova Launcher saga continues</a>, and it looks like ads are coming. But they are at least looking at the open source question again, so that&rsquo;s&hellip; something</p>\n",
