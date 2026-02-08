@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/02/08/pretty-good-seats-at-the/",
+				
+				"content_html": "<p>Pretty good seats at the Fuel game last night</p>\n<p><img src=\"https://pilch.zip/uploads/2026/6feaee2cd0.jpg\" alt=\"Hockey players getting ready for a face off. From seats right behind the glass\"></p>\n",
+				"content_text": "Pretty good seats at the Fuel game last night\n\n![Hockey players getting ready for a face off. From seats right behind the glass](https://pilch.zip/uploads/2026/6feaee2cd0.jpg)\n",
+				"date_published": "2026-02-08T12:48:59-05:00",
+				"url": "https://pilch.zip/2026/02/08/pretty-good-seats-at-the/",
+				"tags": ["Sports"]
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/02/06/puzzmo-just-added-some-social/",
 				
 				"content_html": "<p><a href=\"https://bsky.app/profile/puzzmo.com\">Puzzmo</a> just added some social features and auto-followed some of the game creators and designers. Laughing at how rude this is (Puzzmo is great! I&rsquo;m pilch on there - follow me and try to beat my instaplonks!)</p>\n<!-- raw HTML omitted -->\n",
@@ -1202,6 +1211,14 @@
 				"content_text": "trying an embed repost on the new blog\r\n\r\n<blockquote class=\"bluesky-embed\" data-bluesky-uri=\"at://did:plc:yenteuievxe36fayisxoceed/app.bsky.feed.post/3lluifyoagk2f\" data-bluesky-cid=\"bafyreia7a7uklk5rlwpkjvf2ckt6652j6lbaoxxu34ycdte4iwtydkqjpm\" data-bluesky-embed-color-mode=\"system\"><p lang=\"en\">THERE IS NO SUCH THING AS A “TRADE DEFICIT”—IT’S JUST CALLED “BUYING THINGS.”  YOU DO NOT HAVE A TRADE DEFICIT WITH YOUR DENTIST JUST BECAUSE HE NEVER BUYS ANYTHING FROM YOU.</p>— Daniel A. Horwitz (<a href=\"https://bsky.app/profile/did:plc:yenteuievxe36fayisxoceed?ref_src=embed\">[@danielahorwitz.bsky.social](http://danielahorwitz.bsky.social)</a>) <a href=\"https://bsky.app/profile/did:plc:yenteuievxe36fayisxoceed/post/3lluifyoagk2f?ref_src=embed\">April 2, 2025 at 6:58 PM</a></blockquote><script async src=\"https://embed.bsky.app/static/embed.js\" charset=\"utf-8\"></script>\n",
 				"date_published": "2025-04-03T08:38:38-05:00",
 				"url": "https://pilch.zip/2025/04/03/trying-an-embed-repost-on/"
+			},
+			{
+				"id": "http://pilch.micro.blog/2025/03/29/great-season-by-the-boilers/",
+				
+				"content_html": "<p>Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks</p>\n",
+				"content_text": "Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks\n",
+				"date_published": "2025-03-29T00:03:57-05:00",
+				"url": "https://pilch.zip/2025/03/29/great-season-by-the-boilers/"
 			},
 			{
 				"id": "http://pilch.micro.blog/2025/03/28/great-season-by-the-boilers/",
