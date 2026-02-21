@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/02/21/did-alright-at-the-record/",
+				
+				"content_html": "<p>Did alright at the record store today. Didn&rsquo;t even need to <a href=\"https://pilch.zip/2026/02/02/jan-catch-up/\">take the dog to the hospital after</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Did alright at the record store today. Didn't even need to [take the dog to the hospital after](https://pilch.zip/2026/02/02/jan-catch-up/)\n\n<img src=\"uploads/2026/91ef6513a5.jpg\" width=\"600\" height=\"319\" alt=\"Vinyl albums on a table&10;Noah Kahan - Stick Season&10;Death Cab For Cutie - Transatlanticism 10th Anniversary&10;The Hold Steady - Open Door Policy \">\n",
+				"date_published": "2026-02-21T17:32:51-05:00",
+				"url": "https://pilch.zip/2026/02/21/did-alright-at-the-record/",
+				"tags": ["Photo","Music"]
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/02/08/while-many-of-you-are/",
 				
 				"content_html": "<p>While many of you are yelling &ldquo;Go Seahawks&rdquo; and &ldquo;Go Patriots&rdquo;, I&rsquo;m yelling &ldquo;Go AI De-aging of Jaleel White and Alfonso Ribiero&rdquo;</p>\n",
@@ -1222,14 +1231,6 @@
 				"url": "https://pilch.zip/2025/04/03/trying-an-embed-repost-on/"
 			},
 			{
-				"id": "http://pilch.micro.blog/2025/03/29/great-season-by-the-boilers/",
-				
-				"content_html": "<p>Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks</p>\n",
-				"content_text": "Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks\n",
-				"date_published": "2025-03-29T00:03:57-05:00",
-				"url": "https://pilch.zip/2025/03/29/great-season-by-the-boilers/"
-			},
-			{
 				"id": "http://pilch.micro.blog/2025/03/28/great-season-by-the-boilers/",
 				
 				"content_html": "<p>Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks</p>\n",
@@ -1387,7 +1388,8 @@
 				"content_html": "<p>It has been a while since I watched <a href=\"https://letterboxd.com/pilch/film/shaolin-soccer/\">Shaolin Soccer</a>, but it holds up 🍿</p>\n",
 				"content_text": "It has been a while since I watched [Shaolin Soccer](https://letterboxd.com/pilch/film/shaolin-soccer/), but it holds up 🍿\n",
 				"date_published": "2025-02-17T18:01:14-05:00",
-				"url": "https://pilch.zip/2025/02/17/it-has-been-a-while/"
+				"url": "https://pilch.zip/2025/02/17/it-has-been-a-while/",
+				"tags": ["movies"]
 			},
 			{
 				"id": "http://pilch.micro.blog/2025/02/12/microblog-import-status/",
