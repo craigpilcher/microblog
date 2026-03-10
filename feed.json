@@ -7,11 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/03/10/post-by-microsocial-if-anyone/",
+				
+				"content_html": "<p><a href=\"https://microsocial.micro.blog/2026/03/10/if-anyone-else-would-like.html\">Post</a> by <a href=\"https://micro.blog/microsocial\">@microsocial</a></p>\n<blockquote>\n<p>If anyone else would like to test Micro Social on Android please let me know.\nApparently I cant open test or release until I have at least 12 closed testers for 14 days!</p>\n</blockquote>\n<p>Micro blog Android folks - help get this over the line!</p>\n",
+				"content_text": "[Post](https://microsocial.micro.blog/2026/03/10/if-anyone-else-would-like.html) by [@microsocial](https://micro.blog/microsocial)\n\n> If anyone else would like to test Micro Social on Android please let me know.\nApparently I cant open test or release until I have at least 12 closed testers for 14 days!\n\nMicro blog Android folks - help get this over the line! \n",
+				"date_published": "2026-03-10T09:42:00-04:00",
+				"url": "https://pilch.zip/2026/03/10/post-by-microsocial-if-anyone/"
+			},
+			{
+				"id": "http://pilch.micro.blog/2026/03/05/they-dont-care-today-in/",
+				
+				"content_html": "<p><a href=\"https://www.todayintabs.com/p/they-don-t-care\">They Don&rsquo;t Care (<em>Today in Tabs</em>)</a>:</p>\n<blockquote>\n<p>We kicked off this war of long-distance pre-taliatory liberation by precision bombing a girls’ school and killing 165 people—“most of them girls aged between 7 and 12”—allegedly to free them from the oppressive yoke of a regime that, I’m told, won’t let girls go to school. I guess they’re free now.</p>\n</blockquote>\n",
+				"content_text": "[They Don't Care (_Today in Tabs_)](https://www.todayintabs.com/p/they-don-t-care):\n\n> We kicked off this war of long-distance pre-taliatory liberation by precision bombing a girls’ school and killing 165 people—“most of them girls aged between 7 and 12”—allegedly to free them from the oppressive yoke of a regime that, I’m told, won’t let girls go to school. I guess they’re free now.\n",
+				"date_published": "2026-03-05T18:16:34-04:00",
+				"url": "https://pilch.zip/2026/03/05/they-dont-care-today-in/",
+				"tags": ["the big wet president"]
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/03/05/really-neat-atproto-implementation-from/",
 				
 				"content_html": "<p>really neat atproto implementation <a href=\"https://blog.puzzmo.com/posts/2026/03/02/bsky/\">from Puzzmo</a>, allowing Bluesky users to see Puzzmo labels and streaks</p>\n",
 				"content_text": "really neat atproto implementation [from Puzzmo](https://blog.puzzmo.com/posts/2026/03/02/bsky/), allowing Bluesky users to see Puzzmo labels and streaks\n",
-				"date_published": "2026-03-05T09:01:35-05:00",
+				"date_published": "2026-03-05T10:01:35-04:00",
 				"url": "https://pilch.zip/2026/03/05/really-neat-atproto-implementation-from/"
 			},
 			{
@@ -19,7 +36,7 @@
 				
 				"content_html": "<p>🔗: <a href=\"https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/\">LLMs can unmask pseudonymous users at scale with surprising accuracy</a> (Ars):</p>\n<blockquote>\n<p>Recall—that is, how many users were successfully deanonymized—was as high as 68 percent. Precision—meaning the rate of guesses that correctly identify the user—was up to 90 percent.</p>\n</blockquote>\n<p>We&rsquo;re calling it the <a href=\"https://slate.com/news-and-politics/2019/10/mitt-romney-has-a-secret-twitter-account-and-it-sure-looks-like-its-this-one.html\">Pierre Delecto</a> protocol</p>\n",
 				"content_text": "🔗: [LLMs can unmask pseudonymous users at scale with surprising accuracy](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/) (Ars):\n\n> Recall—that is, how many users were successfully deanonymized—was as high as 68 percent. Precision—meaning the rate of guesses that correctly identify the user—was up to 90 percent.\n\nWe're calling it the [Pierre Delecto](https://slate.com/news-and-politics/2019/10/mitt-romney-has-a-secret-twitter-account-and-it-sure-looks-like-its-this-one.html) protocol\n",
-				"date_published": "2026-03-03T09:18:14-05:00",
+				"date_published": "2026-03-03T10:18:14-04:00",
 				"url": "https://pilch.zip/2026/03/03/llms-can-unmask-pseudonymous-users/",
 				"tags": ["AI"]
 			},
@@ -28,7 +45,7 @@
 				
 				"content_html": "<p>🔗: <a href=\"https://aftermath.site/bloodborne-remake-remaster-ps5/\">I Don’t Need A Bloodborne Remake, I Just Need It To Not Run Like Ass</a> (Chris Person, Aftermath):</p>\n<blockquote>\n<p>You can play Bloodborne on the PS5 right now; I own a digital copy on PS4 and you can download it from the PSN store quite easily. Bloodborne runs kinda like ass on PS5, which makes sense, because Bloodborne always runs like ass.</p>\n</blockquote>\n<p>Never been a Fromsoft guy but I appreciate this sentiment</p>\n",
 				"content_text": "🔗: [I Don’t Need A Bloodborne Remake, I Just Need It To Not Run Like Ass](https://aftermath.site/bloodborne-remake-remaster-ps5/) (Chris Person, Aftermath):\n\n> You can play Bloodborne on the PS5 right now; I own a digital copy on PS4 and you can download it from the PSN store quite easily. Bloodborne runs kinda like ass on PS5, which makes sense, because Bloodborne always runs like ass.\n\nNever been a Fromsoft guy but I appreciate this sentiment\n",
-				"date_published": "2026-03-02T16:19:00-05:00",
+				"date_published": "2026-03-02T17:19:00-04:00",
 				"url": "https://pilch.zip/2026/03/02/i-dont-need-a-bloodborne/",
 				"tags": ["Video Games"]
 			},
@@ -37,7 +54,7 @@
 				
 				"content_html": "<p>lol this deck is so mean</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "lol this deck is so mean\n\n<img src=\"uploads/2026/3aabc7cf13.png\" alt=\"Marvel Snap deck titled Phoenix Dragons (name needs work). Zabu, Nico Minoru, Fastball Special, Psylocke, Firehair, Kate Bishop, Dragon of the Moon, Adamantium Infusion, Star-Lord Master of the Sun, Phoenix Force, Misery, Fin Fang Foom\">\n",
-				"date_published": "2026-02-27T19:40:14-05:00",
+				"date_published": "2026-02-27T20:40:14-04:00",
 				"url": "https://pilch.zip/2026/02/27/lol-this-deck-is-so/",
 				"tags": ["Photo"]
 			},
@@ -46,7 +63,7 @@
 				"title": "it's all connected man",
 				"content_html": "<p>Not usually a conspiracy guy. However, within 10 minutes of e-filing my taxes (#adulting), I got the following correspondences:</p>\n<ul>\n<li>an email from LegalZoom to update my will (I have not used LegalZoom in 10+ years)</li>\n<li>an email from my credit card company to confirm my income</li>\n<li>a text for a &lsquo;survey of residents of (my state)&rsquo; asking for my time</li>\n</ul>\n<p>Placing the blame for the ick this all gave me on Elon Musk and the DOGE chuds from early 2025.</p>\n",
 				"content_text": "Not usually a conspiracy guy. However, within 10 minutes of e-filing my taxes (#adulting), I got the following correspondences:\n\n- an email from LegalZoom to update my will (I have not used LegalZoom in 10+ years)\n- an email from my credit card company to confirm my income\n- a text for a 'survey of residents of (my state)' asking for my time\n\nPlacing the blame for the ick this all gave me on Elon Musk and the DOGE chuds from early 2025.\n",
-				"date_published": "2026-02-26T14:12:36-05:00",
+				"date_published": "2026-02-26T15:12:36-04:00",
 				"url": "https://pilch.zip/2026/02/26/its-all-connected-man/",
 				"tags": ["Dear NSA Angel"]
 			},
@@ -90,7 +107,7 @@
 				"id": "http://pilch.micro.blog/2026/02/06/puzzmo-just-added-some-social/",
 				
 				"content_html": "<p><a href=\"https://bsky.app/profile/puzzmo.com\">Puzzmo</a> just added some social features and auto-followed some of the game creators and designers. Laughing at how rude this is (Puzzmo is great! I&rsquo;m pilch on there - follow me and try to beat my instaplonks!)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "[Puzzmo](https://bsky.app/profile/puzzmo.com) just added some social features and auto-followed some of the game creators and designers. Laughing at how rude this is (Puzzmo is great! I'm pilch on there - follow me and try to beat my instaplonks!)\n\n<img src=\"uploads/2026/b3a04112e7.png\" alt=\"listing of 3 different auto-followed Puzzmo users (two of whom are founders) who beat my scores today\">\n",
+				"content_text": "[Puzzmo](https://bsky.app/profile/puzzmo.com) just added some social features and auto-followed some of the game creators and designers. Laughing at how rude this is (Puzzmo is great! I'm pilch on there - follow me and try to beat my instaplonks!)\n\n<img src=\"https://pilch.zip/uploads/2026/b3a04112e7.png\" alt=\"listing of 3 different auto-followed Puzzmo users (two of whom are founders) who beat my scores today\">\n",
 				"date_published": "2026-02-06T09:57:11-05:00",
 				"url": "https://pilch.zip/2026/02/06/puzzmo-just-added-some-social/",
 				"tags": ["Photo","Video Games","screenshot"]
@@ -1282,14 +1299,6 @@
 				"content_text": "trying an embed repost on the new blog\r\n\r\n<blockquote class=\"bluesky-embed\" data-bluesky-uri=\"at://did:plc:yenteuievxe36fayisxoceed/app.bsky.feed.post/3lluifyoagk2f\" data-bluesky-cid=\"bafyreia7a7uklk5rlwpkjvf2ckt6652j6lbaoxxu34ycdte4iwtydkqjpm\" data-bluesky-embed-color-mode=\"system\"><p lang=\"en\">THERE IS NO SUCH THING AS A “TRADE DEFICIT”—IT’S JUST CALLED “BUYING THINGS.”  YOU DO NOT HAVE A TRADE DEFICIT WITH YOUR DENTIST JUST BECAUSE HE NEVER BUYS ANYTHING FROM YOU.</p>— Daniel A. Horwitz (<a href=\"https://bsky.app/profile/did:plc:yenteuievxe36fayisxoceed?ref_src=embed\">[@danielahorwitz.bsky.social](http://danielahorwitz.bsky.social)</a>) <a href=\"https://bsky.app/profile/did:plc:yenteuievxe36fayisxoceed/post/3lluifyoagk2f?ref_src=embed\">April 2, 2025 at 6:58 PM</a></blockquote><script async src=\"https://embed.bsky.app/static/embed.js\" charset=\"utf-8\"></script>\n",
 				"date_published": "2025-04-03T08:38:38-05:00",
 				"url": "https://pilch.zip/2025/04/03/trying-an-embed-repost-on/"
-			},
-			{
-				"id": "http://pilch.micro.blog/2025/03/29/great-season-by-the-boilers/",
-				
-				"content_html": "<p>Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks</p>\n",
-				"content_text": "Great season by the Boilers. Braden Smith is incredible and Trey Kaufman Renn is the perfect compliment on the pick and roll, while also being too strong to set picks\n",
-				"date_published": "2025-03-29T00:03:57-05:00",
-				"url": "https://pilch.zip/2025/03/29/great-season-by-the-boilers/"
 			},
 			{
 				"id": "http://pilch.micro.blog/2025/03/28/great-season-by-the-boilers/",
