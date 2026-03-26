@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/03/20/marc-andreessen-is-a-philosophical/",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie\">Marc Andreessen is a philosophical zombie</a> (Elizabeth Lopatto):</p>\n<blockquote>\n<p>If you stop using some skill, mental or physical, you lose it and its benefits. We’ve already seen signs of this with heavy users of AI, along with AI psychosis, which may occur because chatbots are too sycophantic. &hellip; So I’m going to suggest that overreliance on AI is bad for you — which suggests a corollary: Whatever is happening to normal people as a result of AI overreliance <em>has already happened to the ultra-wealthy.</em></p>\n</blockquote>\n<p>This would explain so much</p>\n",
+				"content_text": "[Marc Andreessen is a philosophical zombie](https://www.theverge.com/tldr/897566/marc-andreessen-is-a-philosophical-zombie) (Elizabeth Lopatto):\n\n> If you stop using some skill, mental or physical, you lose it and its benefits. We’ve already seen signs of this with heavy users of AI, along with AI psychosis, which may occur because chatbots are too sycophantic. ... So I’m going to suggest that overreliance on AI is bad for you — which suggests a corollary: Whatever is happening to normal people as a result of AI overreliance _has already happened to the ultra-wealthy._\n\nThis would explain so much\n",
+				"date_published": "2026-03-20T12:10:13-04:00",
+				"url": "https://pilch.zip/2026/03/20/marc-andreessen-is-a-philosophical/"
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/03/20/i-just-need-this-out/",
 				
 				"content_html": "<p>I just need this out of my head so I can work</p>\n<!-- raw HTML omitted -->\n",
@@ -39,7 +47,8 @@
 				"content_html": "<p><a href=\"https://defector.com/what-did-the-migrating-bigfoot-family-know-about-this-ohio-meteor-explosion\">What Did The Migrating Bigfoot Family Know About This Ohio Meteor Explosion?</a>:</p>\n<blockquote>\n<p>Before you scoff—you cheap skeptic, you ignoramus, you fool—you should know that the Bigfoot Society considers all of these sightings to be &ldquo;high-credibility reports,&rdquo; so put that in your damn pipe.</p>\n</blockquote>\n<p>#ifuckinglovescience</p>\n",
 				"content_text": "[What Did The Migrating Bigfoot Family Know About This Ohio Meteor Explosion?](https://defector.com/what-did-the-migrating-bigfoot-family-know-about-this-ohio-meteor-explosion):\n\n> Before you scoff—you cheap skeptic, you ignoramus, you fool—you should know that the Bigfoot Society considers all of these sightings to be \"high-credibility reports,\" so put that in your damn pipe.\n\n#ifuckinglovescience\n",
 				"date_published": "2026-03-17T15:56:33-04:00",
-				"url": "https://pilch.zip/2026/03/17/what-did-the-migrating-bigfoot/"
+				"url": "https://pilch.zip/2026/03/17/what-did-the-migrating-bigfoot/",
+				"tags": ["this is so stupid","science"]
 			},
 			{
 				"id": "http://pilch.micro.blog/2026/03/17/oppos-nearly-creaseless-foldable-isnt/",
@@ -1781,9 +1790,9 @@
 			{
 				"id": "http://pilch.micro.blog/2023/02/12/welp/",
 				
-				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p>welp</p>\n",
-				"date_published": "2023-02-12T16:50:07-05:00",
+				"content_html": "<p><!-- raw HTML omitted -->↩️<!-- raw HTML omitted --></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<a href=\"https://pilch.zip/2023/02/12/big-sports-day-today-you/\" class=\"u-in-reply-to\">↩️</a>\n<p>welp</p>\n",
+				"date_published": "2023-02-12T18:50:00-04:00",
 				"url": "https://pilch.zip/2023/02/12/welp/"
 			},
 			{
