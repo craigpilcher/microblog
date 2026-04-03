@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/04/02/artemis-boldly-goes-where-no/",
+				
+				"content_html": "<p><a href=\"https://defector.com/artemis-boldly-goes-where-no-toilet-has-gone-before\">Artemis Boldly Goes Where No Toilet Has Gone Before</a>:</p>\n<blockquote>\n<p>Artemis II, which launched from Florida Wednesday evening, will put four humans around the Moon for the first time since the Apollo missions ceased in 1972. But the Orion crew vehicle, named <em>Integrity</em>, has something those Apollo astronauts lacked: an onboard toilet. &hellip; Nine minutes later, the toilet broke.</p>\n</blockquote>\n<p>Fascinating space toilet coverage</p>\n",
+				"content_text": "[Artemis Boldly Goes Where No Toilet Has Gone Before](https://defector.com/artemis-boldly-goes-where-no-toilet-has-gone-before):\n\n> Artemis II, which launched from Florida Wednesday evening, will put four humans around the Moon for the first time since the Apollo missions ceased in 1972. But the Orion crew vehicle, named _Integrity_, has something those Apollo astronauts lacked: an onboard toilet. ... Nine minutes later, the toilet broke.\n\nFascinating space toilet coverage\n",
+				"date_published": "2026-04-02T22:20:45-04:00",
+				"url": "https://pilch.zip/2026/04/02/artemis-boldly-goes-where-no/",
+				"tags": ["science"]
+			},
+			{
+				"id": "http://pilch.micro.blog/2026/03/30/there-is-no-ethical-consumption/",
+				
+				"content_html": "<p><a href=\"https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia\">There is no ethical consumption of HBO’s Harry Potter series</a>:</p>\n<blockquote>\n<p>Rowling has made it abundantly clear that she thinks attacking transgender people via the legal system is a worthwhile cause and a good use of her vast personal fortune. And as much as Harry Potter fans might be excited to see what HBO has cooked up, there’s no way to watch this show without supporting Rowling’s bigotry and the structural violence she’s inflicting on a vulnerable minority.</p>\n</blockquote>\n",
+				"content_text": "[There is no ethical consumption of HBO’s Harry Potter series](https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia):\n\n> Rowling has made it abundantly clear that she thinks attacking transgender people via the legal system is a worthwhile cause and a good use of her vast personal fortune. And as much as Harry Potter fans might be excited to see what HBO has cooked up, there’s no way to watch this show without supporting Rowling’s bigotry and the structural violence she’s inflicting on a vulnerable minority.\n",
+				"date_published": "2026-03-30T14:54:45-04:00",
+				"url": "https://pilch.zip/2026/03/30/there-is-no-ethical-consumption/",
+				"tags": ["tv"]
+			},
+			{
+				"id": "http://pilch.micro.blog/2026/03/30/theme-switch/",
+				"title": "theme switch",
+				"content_html": "<p>Alright after a few months, I&rsquo;m swapping themes again, back to Mythos. I really enjoyed <a href=\"https://microwave.micro.blog/\">Microwave</a> (see screencap) though. The Hugo 1.5.8 update from Micro.blog seems to really speed up my site, and I do not currently have the bandwidth to fix up theme incompatibility at the moment. Maybe soon.</p>\n<p>One of my favorite Microwave bits is the Last.fm widget, even though mine would usually show whatever the toddler is listening to at the moment (big into Spidey and Friends right now). Also I will probably finish that X-Men compilation someday.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Alright after a few months, I'm swapping themes again, back to Mythos. I really enjoyed [Microwave](https://microwave.micro.blog/) (see screencap) though. The Hugo 1.5.8 update from Micro.blog seems to really speed up my site, and I do not currently have the bandwidth to fix up theme incompatibility at the moment. Maybe soon.\n\nOne of my favorite Microwave bits is the Last.fm widget, even though mine would usually show whatever the toddler is listening to at the moment (big into Spidey and Friends right now). Also I will probably finish that X-Men compilation someday.\n\n<img src=\"uploads/2026/b0a534aaa5.png\" alt=\"Screenshot of my site with Microwave theme\">\n\n\n",
+				"date_published": "2026-03-30T12:43:05-04:00",
+				"url": "https://pilch.zip/2026/03/30/theme-switch/",
+				"tags": ["Photo","Meta"]
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/03/28/a-weird-first-half-which/",
 				
 				"content_html": "<p>A weird first half, which benefits an experienced team. Keep up the pressure boys 🚂🏀🚂🏀 #boilerup</p>\n",
