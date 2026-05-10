@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/05/05/finally-looking-up-guy-pouppez/",
+				
+				"content_html": "<p>🔗: <a href=\"https://jenn.pckt.blog/finally-looking-up-guy-pouppez-1w0z8wv\">finally looking up guy pouppez</a> | jenn</p>\n<p>I have also been <a href=\"https://pilch.zip/2026/04/18/decent-haul-for-our-first/\">listening to Angles</a> and found this fascinating</p>\n",
+				"content_text": "🔗: [finally looking up guy pouppez](https://jenn.pckt.blog/finally-looking-up-guy-pouppez-1w0z8wv) | jenn\n\nI have also been [listening to Angles](https://pilch.zip/2026/04/18/decent-haul-for-our-first/) and found this fascinating\n",
+				"date_published": "2026-05-05T09:35:44-04:00",
+				"url": "https://pilch.zip/2026/05/05/finally-looking-up-guy-pouppez/",
+				"tags": ["the strokes"]
+			},
+			{
+				"id": "http://pilch.micro.blog/2026/05/04/finished-reading-xmen-god-loves/",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished reading: <a href=\"https://micro.blog/books/9780785157267\">X-Men: God Loves, Man Kills</a> by Chris Claremont 📚</p>\n<p>Can&rsquo;t believe I never got to this one before. Deserves a quintessential spot in the Marvel canon</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780785157267/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [X-Men: God Loves, Man Kills](https://micro.blog/books/9780785157267) by Chris Claremont 📚\n\nCan't believe I never got to this one before. Deserves a quintessential spot in the Marvel canon\n",
+				"date_published": "2026-05-04T13:15:44-04:00",
+				"url": "https://pilch.zip/2026/05/04/finished-reading-xmen-god-loves/",
+				"tags": ["Read"]
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/04/25/were-so-back-never-been/",
 				
 				"content_html": "<p>we&rsquo;re so back. never been more back than this</p>\n<p><img src=\"https://pilch.zip/uploads/2026/77f5ff796f.jpg\" alt=\"Pebble Time 2 with blue strap on my wrist \"></p>\n",
@@ -35,7 +53,7 @@
 				"id": "http://pilch.micro.blog/2026/04/20/boiler-up-charitibundibowl/",
 				
 				"content_html": "<p>boiler up #CharitibundiBowl</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "boiler up #CharitibundiBowl\n\n<img src=\"uploads/2026/screenshot-2026-04-20-150752.png\" alt=\"$49.20 - Beat Urban Meyer so bad he 'retired'. RIP Rondale\"><img src=\"uploads/2026/screenshot-2026-04-20-150843.png\" alt=\"confirmation + fees\"><img src=\"uploads/2026/media.png\" alt=\"Auto-generated description: A scoreboard displays a college football game where Purdue defeated Ohio State 49-20 on October 20, 2018.\">\n",
+				"content_text": "boiler up #CharitibundiBowl\n\n<img src=\"https://pilch.zip/uploads/2026/screenshot-2026-04-20-150752.png\" alt=\"$49.20 - Beat Urban Meyer so bad he 'retired'. RIP Rondale\"><img src=\"https://pilch.zip/uploads/2026/screenshot-2026-04-20-150843.png\" alt=\"confirmation + fees\"><img src=\"https://pilch.zip/uploads/2026/media.png\" alt=\"Auto-generated description: A scoreboard displays a college football game where Purdue defeated Ohio State 49-20 on October 20, 2018.\">\n",
 				"date_published": "2026-04-20T15:15:37-04:00",
 				"url": "https://pilch.zip/2026/04/20/boiler-up-charitibundibowl/",
 				"tags": ["Photo","BoilerUp"]
@@ -44,7 +62,7 @@
 				"id": "http://pilch.micro.blog/2026/04/18/decent-haul-for-our-first/",
 				
 				"content_html": "<p>decent haul for our first record store day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "decent haul for our first record store day \n\n<img src=\"uploads/2026/df269fe669.jpg\" width=\"600\" height=\"403\" alt=\"albums on a kitchen table &10;The Strokes - Angles&10;Phoenix - Alphabetical &10;Good Kid - Can We Hang Out Sometime \">\n",
+				"content_text": "decent haul for our first record store day \n\n<img src=\"https://pilch.zip/uploads/2026/df269fe669.jpg\" width=\"600\" height=\"403\" alt=\"albums on a kitchen table &10;The Strokes - Angles&10;Phoenix - Alphabetical &10;Good Kid - Can We Hang Out Sometime \">\n",
 				"date_published": "2026-04-18T13:30:23-04:00",
 				"url": "https://pilch.zip/2026/04/18/decent-haul-for-our-first/",
 				"tags": ["Photo","Music"]
