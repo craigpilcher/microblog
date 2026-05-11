@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://pilch.micro.blog/2026/05/10/all-bangers-but-my-instinct/",
+				
+				"content_html": "<p>All bangers, but my instinct is this question overlaps perfectly with &ldquo;what&rsquo;s the most iconic iPod commercial song&rdquo; which is Are You Gonna Be My Girl</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "All bangers, but my instinct is this question overlaps perfectly with \"what's the most iconic iPod commercial song\" which is Are You Gonna Be My Girl\n\n<blockquote class=\"bluesky-embed\" data-bluesky-uri=\"at://did:plc:hw6pij3rglmi4eescerb2pn5/app.bsky.feed.post/3mljp4h34as2d\" data-bluesky-cid=\"bafyreid7wg5ypdalc6i3qgrfcdgxif3gy3x7bm4nepy33jkp62czs2sqsa\" data-bluesky-embed-color-mode=\"system\"><p lang=\"en\">had a debate last night about the definitive millennial song. some contenders: mgmt’s “kids,” yeah yeah yeah’s “maps,” kanye’s “all of the lights,” arcade fire’s “wake up,” postal service’s “such great heights,” animal collective’s “my girls,” lcd soundsystem’s “all my friends,” stroke’s “last nite”</p>&mdash; huck mason (<a href=\"https://bsky.app/profile/did:plc:hw6pij3rglmi4eescerb2pn5?ref_src=embed\">[@tylerhuckabee.bsky.social](http://tylerhuckabee.bsky.social)</a>) <a href=\"https://bsky.app/profile/did:plc:hw6pij3rglmi4eescerb2pn5/post/3mljp4h34as2d?ref_src=embed\">May 10, 2026 at 5:25 PM</a></blockquote><script async src=\"https://embed.bsky.app/static/embed.js\" charset=\"utf-8\"></script>\n",
+				"date_published": "2026-05-10T21:56:02-04:00",
+				"url": "https://pilch.zip/2026/05/10/all-bangers-but-my-instinct/"
+			},
+			{
 				"id": "http://pilch.micro.blog/2026/05/05/finally-looking-up-guy-pouppez/",
 				
 				"content_html": "<p>🔗: <a href=\"https://jenn.pckt.blog/finally-looking-up-guy-pouppez-1w0z8wv\">finally looking up guy pouppez</a> | jenn</p>\n<p>I have also been <a href=\"https://pilch.zip/2026/04/18/decent-haul-for-our-first/\">listening to Angles</a> and found this fascinating</p>\n",
@@ -3049,7 +3057,7 @@
 			{
 				"id": "http://pilch.micro.blog/2021/01/28/101608/",
 				
-				"content_html": "<p><a href=\"https://twitter.com/AmericasComic/status/1354452317257560067\">twitter.com/AmericasC&hellip;</a></p>\n<blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">Oh, you&#39;re laughing at the hedge fund that got juked by reddit? Well, they&#39;re bankrupt now. Are you laughing now? Is it funny now that a bunch of MBAs are out of a job? Can you laugh knowing they&#39;re explaining to their investors that they were out maneuvered by POTATO_IN_MY_ASS?</p>&mdash; Amber Flannery Field tour guide (@AmericasComic) <a href=\"https://twitter.com/AmericasComic/status/1354452317257560067?ref_src=twsrc%5Etfw\">January 27, 2021</a></blockquote>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n\n\n",
+				"content_html": "<p><a href=\"https://twitter.com/AmericasComic/status/1354452317257560067\">twitter.com/AmericasC&hellip;</a></p>\n\n",
 				"content_text": "[twitter.com/AmericasC...](https://twitter.com/AmericasComic/status/1354452317257560067)\n\n{{< x user=\"AmericasComic\" id=\"1354452317257560067\" >}}\n",
 				"date_published": "2021-01-28T10:16:08-04:00",
 				"url": "https://pilch.zip/2021/01/28/101608/",
